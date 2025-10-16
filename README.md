@@ -1,1 +1,3 @@
 # lab-06
+NAME: MOHAMMEDAYAN BARIWALA
+CCID: bariwala
